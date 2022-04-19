@@ -7,15 +7,7 @@
 
 ## 🏅 Achievements
 
--   📝 **5+ Times Global #1 Weekly Blog Writer** at _Dev_ (January 2022)
--   🏆 **Top Rated** at _Upwork_ (September 2021)
--   ⏫ **Rising Talent** at _Upwork_ (July 2021)
--   🚁 **Mars 2020 Helicopter Mission Contributor** for contributing to _a library ([numpy](https://github.com/numpy/numpy)) used by NASA to fly the Ingenuity Helicopter on Mars_ (April 2021)
--   ⭐ **Global rank 750** at _Google Kickstart 2020 Round H_ (November 2020)
--   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2020_ (October 2020)
--   🥇 **Winner of Coding Competition** at _RCCIIT_ (March 2020)
--   🥈 **1st Runner up at Coding Competition** at _Heritage Institute of Technology_ (September 2019)
--   🥉 **2nd Runner up at Coding Competition** at _GCECT_ (March 2019)
+-   📝 **Published Over 10 Peer Reviewed Articles** 
 
 ## 🛠️ Skills
 
@@ -62,8 +54,6 @@
 
 ### Testing
 
-![mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## 🖥️ Workspace Setup
@@ -77,4 +67,4 @@
 
 ## 🔗 Links
 
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tapajyoti-bose/)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nicholas-peatfield-b688086/)
