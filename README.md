@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Nicholas Peatfield, a **Psychologist** by training but currently the **Director of Technology** at _SarafinAI_.
+🎓 I am Nicholas Peatfield, a **Psychologist / Cognitive Neuroscientist** by training but currently the at _CTF_.
 
 
 ## 🏅 Achievements
